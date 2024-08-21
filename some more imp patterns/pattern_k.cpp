@@ -19,7 +19,7 @@ int main() {
             cout << " ";
         }
         for (int j = 0; j <= i; j++) {
-            cout << "*";
+            cout << "*"; // give space to see the magic
         }
         cout << endl;
     }
